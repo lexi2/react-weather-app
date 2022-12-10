@@ -15,6 +15,9 @@ export default function App() {
           </div>
         </div>
       </div>
+          <div>
+      <a href="https://github.com/lexi2/react-weather-app" target="_blank" rel="noreferrer">Open-Source Project</a>, by Alex Rosewarne
+    </div>
     </div>
   );
 }
